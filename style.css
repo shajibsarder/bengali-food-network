@@ -1,2 +1,86 @@
-body{font-family: 'Uchen', serif;
-        font-size: 20px;}
+body{background: #FFF0F5;}
+.food-corner{  font-family: 'Uchen', serif;
+                font-size: 20px;
+                background:#E0FFFF;}
+
+.text{font-size: 40px;
+    font-family: 'Uchen', serif;}
+
+.color{color:orangered}
+
+.container-flex{display: flex;
+                 }
+
+.half-width{width:550px;
+            padding:30px;
+            }
+
+.link-button{padding: 10px 10px;
+             border-radius: 5px;
+             background-color: tomato;
+            font-weight:800;
+            text-decoration: none;}
+
+.one{ border-color: tomato; 
+    border-radius:10px;
+    height:auto; width:100%;}
+
+    #no-diet{border-radius: 15px;
+                height:500px;
+        width: 800;}
+
+.about-me{ margin-top: 10px;
+         background-image: url(img/shapes/Frame\ 57.jpg);
+         font-family: 'Uchen', serif;
+         font-size: 20px;
+        color: DarkBlue ;}
+
+.button{padding:15px;
+        border-radius: 5px;
+        background-color: Chartreuse;
+        font-weight:500;
+        text-decoration: none;
+        font-size:20px;
+        font-weight: 800;}
+
+.recip{margin-top: 5px;
+        text-align: center;}
+
+#recip-text{text-align: center;
+                font-family: 'Uchen', serif;
+                font-size: 30px;
+                color: OrangeRed ;}
+
+.item{ box-shadow: 10px 20px 30px orange;
+        width: 50%;
+        margin:30px 50px 30px 50px;
+        padding:2px;}
+
+        #elish{border-radius: 10px;
+                border-left:4px solid; ;
+                border-image:linear-gradient(blue, cyan);
+                border-image-slice: 1;}
+
+        #chicken{border-radius: 10px;
+        border-left:4px solid;
+        border-image:linear-gradient(blue, lime) ;
+        border-image-slice: 1;}
+
+        #matton{border-radius: 10px;
+                border-left:4px solid;
+                border-image:linear-gradient(blue, lightpink) ;
+                border-image-slice: 1;}
+
+.follower{box-shadow: 10px 20px 40px orange;
+            border: 3px solid red;
+            margin: 50px 50px 50px 50px;
+            background-color: salmon;
+            border-radius: 10px;
+            font-weight: 300;
+            }
+.footer{border: 3px solid yellow;
+        background-color: black;
+        font-weight: 300;
+        color: white;
+        text-align: center;}
+
